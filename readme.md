@@ -6,7 +6,7 @@
 
 _A Collection of Docker Containers for Security and Penetration Testing can be found [here](https://github.com/ellerbrock/docker-security-container)._
 
-[![Docker Automated Build](https://img.shields.io/docker/automated/frapsoft/snort.svg)](https://hub.docker.com/r/frapsoft/snort/) [![Docker Pulls](https://img.shields.io/docker/pulls/frapsoft/snort.svg)](https://hub.docker.com/r/frapsoft/snort/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
+[![Docker Automated Build](https://img.shields.io/docker/automated/frapsoft/snort.svg)](https://hub.docker.com/r/frapsoft/snort/) [![Docker Repository on Quay](https://quay.io/repository/ellerbrock/snort/status "Docker Repository on Quay")](https://quay.io/repository/ellerbrock/snort) [![Docker Pulls](https://img.shields.io/docker/pulls/frapsoft/snort.svg)](https://hub.docker.com/r/frapsoft/snort/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
 
 - Docker Hub: [frapsoft/snort](https://hub.docker.com/r/frapsoft/snort/)
